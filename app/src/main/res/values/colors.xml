@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="base_light_red">#E22018</color>
+
+    <color name="colorCardBg">#F0EFF5</color>
+
+    <color name="wt">#22666666</color>
+    <color name="colorProgressBg">#EFF5FD</color>
+    <color name="colorBlueTextBar">#346AE6</color>
+    <color name="colorTextDefault">#7B7B7B</color>
+    <color name="colorDialogBg">#565656</color>
+    <color name="colorApprovalFailed">#AFBCC9</color>
+</resources>

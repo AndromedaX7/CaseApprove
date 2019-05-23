@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextProgressBar">
+        <attr name="progress">int</attr>
+        <attr name="max">max</attr>
+    </declare-styleable>
+    <declare-styleable name="Pie">
+        <attr name="progress">int</attr>
+        <attr name="max">int</attr>
+    </declare-styleable>
+</resources>

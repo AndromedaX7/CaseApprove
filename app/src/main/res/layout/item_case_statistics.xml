@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_gravity="center_vertical"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <TextView
+        android:gravity="end"
+        android:id="@+id/month"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="12月" />
+
+    <com.zhhl.android.policemovecareful.view.TextProgressBar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="18dp"
+        android:layout_marginStart="8dp"
+        app:max="10"
+        app:progress="1" />
+
+</LinearLayout>
